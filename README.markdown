@@ -9,7 +9,7 @@ test script to send and recieve tcp messages to controll obs
 * [OBS Websocket](https://github.com/obsproject/obs-websocket/releases/latest)
 * [OBSCommand](https://github.com/REALDRAGNET/OBSCommand/releases/latest)
 
-How to use:
+### How to use
 
 * Install `OBS` and `OBS Websocket` and start it.
 * Create some scenes in obs
