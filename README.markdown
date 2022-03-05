@@ -1,9 +1,7 @@
 TCPmessage4OBS
 ==============
 
-A background serve that recieve TCP messages to transmit to the OBS websocket server.
-
-
+test script to send and recieve tcp messages to controll obs
 
 ### Prerequisits
 
